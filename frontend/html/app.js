@@ -1,5 +1,5 @@
 //Configuracion de URLs
-const API_BASE_URL = 'http://localhost:500/api';
+const API_BASE_URL = 'http://localhost:5000/api';
 
 document.addEventListener('DOMContentLoaded', () => {
     checkBackendStatus();
