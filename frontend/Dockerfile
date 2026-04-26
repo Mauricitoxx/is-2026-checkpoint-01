@@ -5,7 +5,7 @@ FROM python:3.12-slim
 WORKDIR /app
 
 # 3. Copio los archivos index.html y app.js al contenedor
-COPY html/
+COPY html/ .
 
 # 4. Expongo puerto que se usará
 EXPOSE 8080
