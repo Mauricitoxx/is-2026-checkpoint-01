@@ -1,0 +1,11 @@
+#historial de git
+.git
+.gitignore
+
+#archivos de entorno
+.env
+.env.example
+
+#archivos del sistema
+.DS_Store
+README.md
