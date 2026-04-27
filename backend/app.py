@@ -2,8 +2,10 @@ import os
 import psycopg2
 from psycopg2.extras import RealDictCursor #las consultas a la base de datos se devuelven como diccionarios.
 from flask import Flask, jsonify
+from flask_cors import CORS
 
 app = Flask(__name__)
+CORS(app)
 
 @app.route('/api/health', methods=['GET'])
 def health_check():
