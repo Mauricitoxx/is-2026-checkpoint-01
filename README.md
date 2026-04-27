@@ -17,8 +17,7 @@ Para ejecutar la aplicación en un entorno local, se deben seguir los siguientes
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
-   cd TP1
+   git clone https://github.com/Mauricitoxx/is-2026-checkpoint-01/
    ```
 
 2. **Configurar las variables de entorno**:
@@ -90,13 +89,14 @@ A continuación se detalla la tabla de integrantes y las tareas (features) desar
 **Verificaciones realizadas:**
 
 Visualización de contenedores del sistema.
-![Contenedores](portainer/screenshots/contenedores.jpeg)
+<img width="1600" height="681" alt="contenedores" src="https://github.com/user-attachments/assets/ebf3fbc4-595c-466e-a520-6a5203a0a4d0" />
 
 Visualización de redes Docker.
-![Redes](portainer/screenshots/networks.jpeg)
+<img width="1600" height="715" alt="networks" src="https://github.com/user-attachments/assets/3b8961d2-bc4f-4e26-8334-83b55c715853" />
 
 Visualización de volúmenes persistentes.
-![Volúmenes](portainer/screenshots/volumes.jpeg)
+<img width="1600" height="714" alt="volumes" src="https://github.com/user-attachments/assets/039a0488-8aa1-47e8-a5d5-801467749ff4" />
 
 Administración desde interfaz web.
-![Dashboard](portainer/screenshots/dashboard.jpeg)
+<img width="1600" height="740" alt="dashboard" src="https://github.com/user-attachments/assets/b07c4222-745d-4f2e-b4c5-f2616215c188" />
+
